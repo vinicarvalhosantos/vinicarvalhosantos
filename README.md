@@ -1,6 +1,6 @@
 ### Hi there, I am Vinicius Santos :)
 
- I'm 21 years old and I've been a "program boy" for three years, but my interest in the area comes since I'm very young when I created small plugins in Java and MySQL for minecraft servers.
+ I'm an experienced Backend Developer with more than 4 years of expertise in Java 8 and Spring Boot Ecosystem. Professional hands-on experience with Kubernetes, Docker, Hibernate and SQL as well. Capable of constructing and maintaining efficient and reliable Java code to ensure best quality and responsiveness of applications handling more than 20000 requests per second and more than a million of active users.
 
 
 <div align="center">
@@ -31,9 +31,9 @@
  
 </div>
 
-- I’m currently working on backend
-- I’m currently learning GoLang and ReactJs
-- Ask me about my passions
+- I’m currently focusing on backend development.
+- Pursuing my Oracle Certified Certification for Java 8.
+- Ask me about my passions.
 - How to reach me: By my LinkedIn and Gmail on my profile page
-- Fun fact: The same ones who make fun of me for creating minecraft plugins are the ones who come to me when they need some help.
+- Fun fact about me: I've always been very interested in this beautiful and troubled IT area, since very young I've been creating Minecraft Java plugins.
 
